@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+
+}
+
+.hfirst {
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.hfirst.hrep {
+    font-size: 50px;
+}
+
+.repimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13%;
+}
+
+#imgpork {
+    width: 25%;
+}
+
+#navbar {
+    padding-top: 70px;
+}
+
+.barlist {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #57f542;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.intro {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.htwo {
+    color: white;
+    text-align: center;
+}
+
+.ing {
+    color: white;
+    text-align: center;
+}
